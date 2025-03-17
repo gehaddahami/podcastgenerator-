@@ -3,7 +3,7 @@ author: "Gehad Dahami"
 description: "A guided project for generating a feed for a podcast from YAML file" 
 runs: 
   using: "docker"
-  image: "dockerfile" 
+  image: "Dockerfile" 
 branding: 
   icon: "git-branch"
   color: "blue" 
